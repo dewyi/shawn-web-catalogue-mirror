@@ -9,6 +9,7 @@ A lightweight, static product catalogue built for easy maintenance via Git. No b
 - Zero dependencies. Pure HTML/CSS/JS.
 
 ## 📁 Project Structure
+```
 .
 ├── data/
 │ └── products.json # Single source of truth for all products
@@ -18,3 +19,4 @@ A lightweight, static product catalogue built for easy maintenance via Git. No b
 │ └── images/ # Product photos (organize by SKU/product ID)
 ├── index.html # Main catalogue page
 └── README.md # This file
+```
