@@ -1,0 +1,11 @@
+[
+    {
+    "id": "SKU-001",
+    "name": "Product Name",
+    "category": "Furniture",
+    "price": 29.99,
+    "stock": 45,
+    "image": "assets/images/sku-001.jpg",
+    "description": "Short product description here"
+    }
+]
