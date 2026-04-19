@@ -15,7 +15,8 @@
     "./skills/verification-loop/SKILL.md",
     "./skills/api-design/SKILL.md",
     "./skills/strategic-compact/SKILL.md",
-    "./skills/eval-harness/SKILL.md"
+    "./skills/eval-harness/SKILL.md",
+    "./skills/good-websites/SKILL.md"
   ],
   "plugin": [
     "./plugins"
