@@ -40,4 +40,4 @@ coverage/
 tsbuildinfo/
 
 # Opencode
-.opencode/
+#.opencode/
