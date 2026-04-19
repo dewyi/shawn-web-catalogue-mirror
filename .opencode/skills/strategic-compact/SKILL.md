@@ -10,7 +10,7 @@ Suggests manual `/compact` at strategic points in your workflow rather than rely
 
 ## When to Activate
 
-- Running long sessions that approach context limits (200K+ tokens)
+- Running long sessions that approach context limits (100K+ tokens)
 - Working on multi-phase tasks (research → plan → implement → test)
 - Switching between unrelated tasks within the same session
 - After completing a major milestone and starting new work
